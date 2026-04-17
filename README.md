@@ -1,8 +1,8 @@
 # Hello, I'm JiaDe 👋
 
-**AWS Partner Solutions Architect Team Manager** · **15+ years** in Cloud, Big Data & GenAI
+**AWS Solutions Architect** · **15+ years** in Cloud, Big Data & GenAI
 
-I build scalable cloud ecosystems and ship production-grade AI agent solutions. Currently leading a 14-person SA team at AWS, transforming it from a reactive support function into a **data-driven growth engine** — contributing to **$570M+** in partner-driven pipeline in 2025.
+I build scalable cloud ecosystems and ship production-grade AI agent solutions on AWS. Passionate about open source, GenAI thought leadership, and turning complex architectures into one-click deployments.
 
 ---
 
@@ -27,22 +27,13 @@ Enterprise Clawdbot on AWS with Bedrock — secure, scalable, one-click deployme
 
 ## 🏗️ What I Do at AWS
 
-**Partner Solutions Architect Team Manager** | AWS GCR | 2023 – Present
+**Solutions Architect** | AWS | 2019 – Present
 
-- Led **14 SAs** through a full team transformation → proactive, data-driven growth engine
-- Spearheaded **Partner-Led Migration** initiative → **$6.83M** incremental pipeline, **54** new opportunities
-- Designed **SPP Bar Raiser** mechanism — assessed 100 service partners, optimized 31 → adopted by **AWS Global** and promoted in the US market
-- Live demo at **AWS Summit** (10,000+ attendees) showcasing AI Agent + GenAI practices
-- Hosted CXO roundtables with **Deloitte, McKinsey, and Bain** on AWS GenAI strategy
-- Built **GenAI Asset Hub** scaling mechanism → **14** solutions reached replication-ready standard
-
-**Senior Data & AI Specialist SA** | AWS GCR | 2019 – 2023
-
-- Created AWS's first centralized **Solution Repo** — **963** solutions, **44.5** daily active architects
-- Incubated replicable partner solutions deployed at **Haier, Jabil, AmWay** → up to **12 repeated wins** per solution
-- Domain expert for large-scale **Hive/Spark/Flink/Kafka** clusters at top-tier customers
+- GenAI thought leader — live demo at **AWS Summit** (10,000+ attendees) showcasing AI Agent practices
+- Hosted CXO-level roundtables on AWS GenAI strategy with top consulting firms
+- Domain expert for large-scale **Spark/Flink/Kafka/Hive** data platforms
 - Led competitive benchmarks: ClickHouse vs Redshift, PostHog vs Google Analytics
-- **12 AWS Certifications** · **4th Gold Jacket holder** in GCR region
+- **12 AWS Certifications** · **Gold Jacket holder** in GCR region
 - 🏆 **TFC Annual Contribution Award** (2021)
 
 ---
