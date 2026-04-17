@@ -14,8 +14,8 @@ Enterprise-ready OpenClaw deployment on AWS with Amazon Bedrock — one-click Cl
 - Full Enterprise edition: organizational governance, 4-tier security, multi-runtime architecture
 - #1 contributor with 71 commits
 
-### [NousResearch/hermes-agent #7920](https://github.com/NousResearch/hermes-agent/pull/7920) — *Contributor*
-Native AWS Bedrock provider via Converse API — enabling Hermes Agent to run directly on Amazon Bedrock without proxy layers.
+### [NousResearch/hermes-agent #10549](https://github.com/NousResearch/hermes-agent/pull/10549) — *Contributor* ✅ Merged
+Native AWS Bedrock provider via Converse API — dual-path architecture (AnthropicBedrock SDK + boto3 Converse), 1,098-line adapter, 18 files changed. Merged by [@teknium](https://github.com/teknium1).
 
 ### [sample-hermes-agent-on-aws-with-bedrock](https://github.com/JiaDe-Wu/sample-hermes-agent-on-aws-with-bedrock)
 One-click CloudFormation deployment for Hermes Agent on AWS — IAM auth, multi-model support.
