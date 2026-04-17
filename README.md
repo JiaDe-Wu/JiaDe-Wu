@@ -20,8 +20,15 @@ Native AWS Bedrock provider via Converse API — enabling Hermes Agent to run di
 ### [sample-hermes-agent-on-aws-with-bedrock](https://github.com/JiaDe-Wu/sample-hermes-agent-on-aws-with-bedrock)
 One-click CloudFormation deployment for Hermes Agent on AWS — IAM auth, multi-model support.
 
-### [clawdbot-aws-bedrock](https://github.com/JiaDe-Wu/clawdbot-aws-bedrock)
-Enterprise Clawdbot on AWS with Bedrock — secure, scalable, one-click deployment.
+### [AWS Partner Workshop Center](https://workshop.awspsa.com/) — *Creator & Maintainer*
+Self-built training platform for AWS Partner enablement — hands-on workshops covering Cloud Native, Migration, Data Analytics, GenAI and more.
+- **7 years** of continuous operation · **100,000+** AWS partners enabled
+- Curriculum covers the full partner journey: from foundational cloud skills to advanced GenAI solutions
+
+### [F1 Insights · AI-Powered Race Analytics](https://f1.awspsa.com/) — *Creator*
+Live-coded AI analytics platform for the **2026 F1 Shanghai Grand Prix** — serving **100+ C-level executives** from top AWS enterprise customers.
+- Real-time telemetry visualization powered by OpenF1 & FastF1
+- Built and demoed live on-site during the race weekend
 
 ---
 
